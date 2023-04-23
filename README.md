@@ -4,7 +4,7 @@ Value Inc is a retail store that sells household items all over the world by bul
 + Has no idea of the monthly cost and profit
 - He wants a dashboard on this and says the data is currently stored in an excel sheet.
 # Data
-The dataset for this project can be downloaded  [here] (https://drive.google.com/file/d/1i6MQZmXUuqyqGjSGbsPrNKV-eJPAhx-U/view). 
+The dataset for this project can be downloaded [here](https://drive.google.com/file/d/1i6MQZmXUuqyqGjSGbsPrNKV-eJPAhx-U/view). 
 # Tools
 The python libraries listed below were utilized for this project:
 - Jupyter Notebook
