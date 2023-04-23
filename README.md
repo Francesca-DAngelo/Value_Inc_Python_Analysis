@@ -7,7 +7,6 @@ Value Inc is a retail store that sells household items all over the world by bul
 The dataset for this project can be downloaded [here](https://drive.google.com/file/d/1i6MQZmXUuqyqGjSGbsPrNKV-eJPAhx-U/view). 
 # Tools
 The python libraries listed below were utilized for this project:
-- Jupyter Notebook
 * Spyder
 + pandas
 
