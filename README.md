@@ -17,6 +17,6 @@ The python libraries listed below were utilized for this project:
 - Deriving new variables (Profit and Markup)
 
 
-Please find the Tableau interactive dashboard [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/ValueInc_SalesDashboard_16803687039470/ValueInc_Salesdashboard).
+The Tableau final interactive dashboard can be found [here](https://public.tableau.com/app/profile/francesca.d.angelo6034/viz/ValueInc_SalesDashboard_16803687039470/ValueInc_Salesdashboard).
 
 
