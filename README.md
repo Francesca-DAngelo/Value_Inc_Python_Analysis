@@ -11,6 +11,8 @@ The python libraries listed below were utilized for this project:
 + pandas
 
 # Steps of the analysis
+* Data Understanding
++ Data Preparation
 + Data Consistency Checks
 * Data Wrangling & Subsetting
 - Deriving new variables (Profit and Markup)
